@@ -40,7 +40,9 @@ const tracklist = [
     "./assets/music/Bahagia Lagi.mp3",
     "./assets/music/exultet.mp3",
     "./assets/music/Everything u are - Hindia.mp3",
-    "./assets/music/Mangu - Fourtwnty.mp3"
+    "./assets/music/Mangu - Fourtwnty.mp3",
+    "./assets/music/群青 - YOASOBI.mp3"
+    
 ];
 
 let currentTrackIndex = 0; // Mulai dari lagu pertama (urutan ke-0)
