@@ -41,7 +41,11 @@ const tracklist = [
     "./assets/music/exultet.mp3",
     "./assets/music/Everything u are - Hindia.mp3",
     "./assets/music/Mangu - Fourtwnty.mp3",
-    "./assets/music/群青 - YOASOBI.mp3"
+    "./assets/music/群青 - YOASOBI.mp3",
+    "./assets/music/PLAYERS - YOASOBI.mp3",
+    "./assets/music/o,Tuan - .Feast.mp3", 
+    "./assets/music/Surrexit Christus.mp3"
+    
     
 ];
 
