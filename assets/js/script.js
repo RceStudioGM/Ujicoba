@@ -35,7 +35,12 @@ const tracklist = [
     "./assets/music/Graze the Roof - Laura Shigihara.mp3",
     "./assets/music/Menggapai Mentari - Aretha Kirana.mp3",
     "./assets/music/Pirate Seas - Laura Shigihara.mp3",
-    "./assets/music/Skyfall - Adele.mp3"
+    "./assets/music/Skyfall - Adele.mp3",
+    "./assets/music/365 Nichi No Kamihikouki - Pesawat Kertas 365 Hari - JKT48.mp3",
+    "./assets/music/Bahagia Lagi.mp3",
+    "./assets/music/exultet.mp3",
+    "./assets/music/Everything u are - Hindia.mp3",
+    
 ];
 
 let currentTrackIndex = 0; // Mulai dari lagu pertama (urutan ke-0)
