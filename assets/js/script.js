@@ -30,12 +30,12 @@ const musicIcon = document.getElementById("musicIcon");
 
 // 1. Masukkan link lagu-lagumu di dalam tanda kutip di bawah ini
 const tracklist = [
-    "../music/Alan Menken - Kingdom Dance (From Tangled Score).mp3",
-    "../music/Jarak - BeaconCream.mp3",
-    "../music/Graze the Roof - Laura Shigihara.mp3",
-    "../music/Menggapai Mentari - Aretha Kirana.mp3",
-    "../music/Pirate Seas - Laura Shigihara.mp3",
-    "../music/Skyfall - Adele.mp3"
+    "./assets/music/Alan Menken - Kingdom Dance (From Tangled Score).mp3",
+    "./assets/music/Jarak - BeaconCream.mp3",
+    "./assets/music/Graze the Roof - Laura Shigihara.mp3",
+    "./assets/music/Menggapai Mentari - Aretha Kirana.mp3",
+    "./assets/music/Pirate Seas - Laura Shigihara.mp3",
+    "./assets/music/Skyfall - Adele.mp3"
 ];
 
 let currentTrackIndex = 0; // Mulai dari lagu pertama (urutan ke-0)
