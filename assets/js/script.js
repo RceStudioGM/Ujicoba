@@ -34,7 +34,7 @@ const tracklist = [
     "../music/Jarak - BeaconCream.mp3",
     "../music/Graze the Roof - Laura Shigihara.mp3",
     "../music/Menggapai Mentari - Aretha Kirana.mp3",
-    "../music/Pirate Seas _From Plants vs. Zombies 2_ _Secret Track_ - Laura Shigihara.mp3",
+    "../music/Pirate Seas - Laura Shigihara.mp3",
     "../music/Skyfall - Adele.mp3"
 ];
 
